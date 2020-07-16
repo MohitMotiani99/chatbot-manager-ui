@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DT2/botmanager/static/css/main.58c47a08.chunk.css",
+    "main.js": "/DT2/botmanager/static/js/main.61378d62.chunk.js",
+    "main.js.map": "/DT2/botmanager/static/js/main.61378d62.chunk.js.map",
+    "runtime-main.js": "/DT2/botmanager/static/js/runtime-main.6138f566.js",
+    "runtime-main.js.map": "/DT2/botmanager/static/js/runtime-main.6138f566.js.map",
+    "static/js/2.76eb9f25.chunk.js": "/DT2/botmanager/static/js/2.76eb9f25.chunk.js",
+    "static/js/2.76eb9f25.chunk.js.map": "/DT2/botmanager/static/js/2.76eb9f25.chunk.js.map",
+    "index.html": "/DT2/botmanager/index.html",
+    "precache-manifest.db178e257f276b89463ca0730101da37.js": "/DT2/botmanager/precache-manifest.db178e257f276b89463ca0730101da37.js",
+    "service-worker.js": "/DT2/botmanager/service-worker.js",
+    "static/css/main.58c47a08.chunk.css.map": "/DT2/botmanager/static/css/main.58c47a08.chunk.css.map",
+    "static/js/2.76eb9f25.chunk.js.LICENSE.txt": "/DT2/botmanager/static/js/2.76eb9f25.chunk.js.LICENSE.txt",
+    "static/media/Airtel.png": "/DT2/botmanager/static/media/Airtel.95b86977.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6138f566.js",
+    "static/js/2.76eb9f25.chunk.js",
+    "static/css/main.58c47a08.chunk.css",
+    "static/js/main.61378d62.chunk.js"
+  ]
+}
